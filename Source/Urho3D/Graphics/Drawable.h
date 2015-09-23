@@ -53,7 +53,7 @@ struct RayQueryResult;
 struct WorkItem;
 
 /// Geometry update type.
-enum UpdateGeometryType
+enum NONSCRIPTABLE UpdateGeometryType
 {
     UPDATE_NONE = 0,
     UPDATE_MAIN_THREAD,
